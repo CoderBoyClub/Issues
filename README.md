@@ -48,5 +48,10 @@ Your feedback helps us identify problems, improve existing features, and build a
 
 ---
 
+<p align="center">
+  <img src=".github/logo.svg" alt="coderboyclub" width="32" height="32" />
+</p>
 <h5 align="center"> © CoderBoyClub </h5>
-<h4 align="center"><sub> Built for developers, by developer. </sub></h4>
+<h4 align="center">
+  <sub>Built for developers, by developers.</sub>
+</h4>
