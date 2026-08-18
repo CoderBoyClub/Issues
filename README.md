@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/visit-website-1f6feb" alt="Visit website" /></a>
+  <a href=https://coderboyclub.coderboyclub.workers.dev""><img src="https://img.shields.io/badge/visit-website-1f6feb" alt="Visit website" /></a>
   <img src="https://img.shields.io/badge/runs%20in-your%20browser-000000" alt="Runs in your browser" />
 </p>
 
@@ -32,7 +32,7 @@ Coder Boy Club is a developer-focused platform designed to help developers learn
 
 Ready to start learning?
 
-Visit the **[CoderBoyClub](#)**  website and start exploring.
+Visit the **[CoderBoyClub](https://coderboyclub.coderboyclub.workers.dev)**  website and start exploring.
 
 ## Issues
 
