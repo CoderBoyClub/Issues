@@ -19,9 +19,12 @@ Coder Boy Club is a developer-focused platform designed to help developers learn
 
 ### Features
 
-- Developer-focused learning resources
+- Developer focused learning resources
 - Practical coding guidance
 - Tools and resources for developers
+- Dark / Light Mode Theme toggle
+- Fully Responsive: Desktop, tablet, and mobile
+- Sticky Sidebar Active section highlighting and smooth scroll
 - Continuous improvements and new features
 - Community-driven feedback and suggestions
 
@@ -45,4 +48,5 @@ Your feedback helps us identify problems, improve existing features, and build a
 
 ---
 
-© CoderBoyClub
+<h5 align="center"> © CoderBoyClub </h5>
+<h4 align="center"><sub> Built for developers, by developer. </sub></h4>
