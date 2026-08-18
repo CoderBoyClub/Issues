@@ -37,9 +37,9 @@ Track bugs, feature requests, questions, and feedback here.
 
 If you find a problem or have something you'd like to suggest, choose the option that best matches your request:
 
-* 🐛 [Report a Bug](#)
-* ✨ [Request a Feature](#)
-* 💬 [Question & Feedback](#)
+* 🐛 [Report a Bug](https://github.com/coderboyclub/issues/issues/new?template=bug_report.yml)
+* ✨ [Request a Feature](https://github.com/coderboyclub/issues/issues/new?template=feature_request.yml)
+* 💬 [Question & Feedback](https://github.com/coderboyclub/issues/issues/new?template=something_else.yml)
 
 Your feedback helps us identify problems, improve existing features, and build a better experience for developers.
 
