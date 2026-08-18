@@ -29,7 +29,7 @@ Coder Boy Club is a developer-focused platform designed to help developers learn
 
 Ready to start learning?
 
-Visit the **[CoderBoyClub website](#)** and start exploring.
+Visit the **[CoderBoyClub](#)**  website and start exploring.
 
 ## Issues
 
