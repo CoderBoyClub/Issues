@@ -1,0 +1,43 @@
+name: Feature Request
+description: Suggest an idea or improvement for Coder Boy Club.
+title: "[Feature]: "
+labels:
+  - enhancement
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to suggest an improvement! 💡
+        Please fill out the sections below so we can better understand your request.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: What problem are you trying to solve?
+      description: Describe the use case or the main reason behind this request.
+      placeholder: Tell us what problem this feature would solve...
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposed-solution
+    attributes:
+      label: Proposed solution
+      description: What would you like to see happen?
+      placeholder: Describe your ideal solution or feature...
+    validations:
+      required: true
+
+  - type: textarea
+    id: alternatives
+    attributes:
+      label: Alternatives considered
+      description: Any other approaches or workarounds you have tried or thought about.
+      placeholder: Describe any alternatives or workarounds...
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional context
+      description: Screenshots, mockups, links, or anything else that helps explain the request.
+      placeholder: Drag and drop screenshots or files here, or add relevant links...

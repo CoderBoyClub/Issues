@@ -1,0 +1,91 @@
+name: Bug Report
+description: Report something that is not working as expected.
+title: "[Bug]: "
+labels:
+  - bug
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to report a bug! 🐛
+        Please fill out the sections below so we can reproduce and fix the issue.
+
+  - type: textarea
+    id: what-happened
+    attributes:
+      label: What happened?
+      description: Describe the issue or bug you experienced.
+      placeholder: Tell us what went wrong...
+    validations:
+      required: true
+
+  - type: textarea
+    id: steps-to-reproduce
+    attributes:
+      label: Steps to reproduce
+      description: Tell us the exact steps needed to reproduce this issue.
+      placeholder: |
+        1. Go to...
+        2. Click on...
+        3. Select...
+        4. See the error...
+    validations:
+      required: true
+
+  - type: textarea
+    id: expected-behavior
+    attributes:
+      label: Expected behavior
+      description: What did you expect to happen?
+      placeholder: Describe what should have happened...
+
+  - type: textarea
+    id: actual-behavior
+    attributes:
+      label: Actual behavior
+      description: What actually happened?
+      placeholder: Describe what happened instead...
+
+  - type: dropdown
+    id: browser
+    attributes:
+      label: Browser
+      description: Which browser were you using?
+      options:
+        - Chrome
+        - Safari
+        - Firefox
+        - Edge
+        - Opera
+        - Brave
+        - Other
+
+  - type: dropdown
+    id: operating-system
+    attributes:
+      label: Operating System
+      description: Which operating system were you using?
+      options:
+        - macOS
+        - Windows
+        - Linux
+        - iOS
+        - Android
+        - Other
+
+  - type: textarea
+    id: logs
+    attributes:
+      label: Logs, errors, or screenshots
+      description: |
+        Please add any relevant error messages, console logs, screenshots,
+        or screen recordings that can help us investigate the issue.
+      placeholder: Paste logs or drag and drop screenshots/files here...
+      render: shell
+
+  - type: textarea
+    id: additional-context
+    attributes:
+      label: Additional context
+      description: Add anything else that may help us understand or reproduce the issue.
+      placeholder: Any additional information...

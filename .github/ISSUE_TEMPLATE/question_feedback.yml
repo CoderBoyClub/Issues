@@ -1,0 +1,31 @@
+name: Question & Feedback
+description: Share a question, feedback, or anything that is not a bug or feature request.
+title: "[Question]: "
+labels:
+  - questions
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reaching out to Coder Boy Club! 👋
+        If you have a question, feedback, or anything else to share,
+        please fill out the section below.
+
+  - type: input
+    id: whats-on-your-mind
+    attributes:
+      label: What's on your mind?
+      description: Give us a short summary of your question or feedback.
+      placeholder: Tell us what's on your mind...
+    validations:
+      required: true
+
+  - type: textarea
+    id: details
+    attributes:
+      label: Share your question, feedback, or anything else
+      description: Provide as much detail as you can so we can better understand and respond.
+      placeholder: |
+        Tell us more about your question, feedback, suggestion, or anything else you'd like to share...
+    validations:
+      required: true
