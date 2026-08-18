@@ -39,7 +39,7 @@ If you find a problem or have something you'd like to suggest, choose the option
 
 * 🐛 [Report a Bug](https://github.com/coderboyclub/issues/issues/new?template=bug_report.yml)
 * ✨ [Request a Feature](https://github.com/coderboyclub/issues/issues/new?template=feature_request.yml)
-* 💬 [Question & Feedback](https://github.com/coderboyclub/issues/issues/new?template=something_else.yml)
+* 💬 [Question & Feedback](https://github.com/coderboyclub/issues/issues/new?template=question_feedback.yml)
 
 Your feedback helps us identify problems, improve existing features, and build a better experience for developers.
 
